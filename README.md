@@ -1,5 +1,5 @@
-# Euphoria Patches 1.0.1
-## Latest changes
+# Latest changes
+## Euphoria Patches 1.0.1
 This update adds bug fixes and minor changes
 
 ### Fixes
