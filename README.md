@@ -12,7 +12,7 @@
 - Added letterbox transparency
 - Added a noise overlay effect
 - Added an option which makes generated normals work with blocklight (and also with handheld light)
-  <details><summary>Click to expand for images of generated normals work with blocklight</summary>
+  <details><summary><ins>Click</ins> to expand for images of generated normals work with blocklight</summary>
   <p>
 
   <img src="https://github.com/EuphoriaPatches/Changelogs/assets/46494907/c16bd9e9-cd6e-408c-905f-c34775094c6e" width="500" height="auto" />
@@ -26,7 +26,7 @@
   </details>
   
 - Improved the rain Atmosphere setting (also renamed it). Lightning bolts now are directional!
-  <details><summary>Click to expand for images of the directional Lightning bolts (I really love them!)</summary>
+  <details><summary><ins>Click</ins> to expand for images of the directional Lightning bolts (I really love them!)</summary>
   <p>
   
   <img src="https://github.com/EuphoriaPatches/Changelogs/assets/46494907/a8aa758e-80b1-4acd-87db-68415b36ce37" width="500" height="auto" />
@@ -52,7 +52,7 @@
 - Improved the "No rain above clouds" and the "clearer sky when raining" options
 - Removed the night brightness option as it is possible to do the same things with atmospheric multipliers in the base pack
 - Added Emissive Flowers
-  <details><summary>Click to expand for images of emissive flowers</summary>
+  <details><summary><ins>Click</ins> to expand for images of emissive flowers</summary>
   <p>
   
   <img src="https://github.com/EuphoriaPatches/Changelogs/assets/46494907/b9f5411d-596d-4b4a-bfdf-a33549751678" width="500" height="auto" />
