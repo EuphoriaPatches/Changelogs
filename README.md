@@ -10,7 +10,7 @@
 - lava noise intensity code improvements and more setting options
 - Added a speed line camera effect
 - Added letterbox transparency
-- Added a noise overlay effect
+- Added a noise overlay camera effect
 - Added an option which makes generated normals work with blocklight (and also with handheld light)
   <details><summary><ins>Click</ins> to expand for images of generated normals work with blocklight</summary>
   <p>
