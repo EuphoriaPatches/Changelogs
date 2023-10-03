@@ -63,7 +63,7 @@
   </p>
   </details>
 
-- Improved the Faster Rainy Clouds Option, now clouds won't move at light speed during the transition of clear and rainy weather but teleport quickly. This can't be fixed, unfortunately. Water and Foliage are also affected now and the option has been renamed to Increased Rain Strength
+- Improved the Faster Rainy Clouds Option, now it has 2 options to choose from, the first one is the current released version, the transition is very fast between clear and rainy weather. And the second one has no transition but clouds and other affected animations will teleport quickly. This can't be fixed, unfortunately. Water and Foliage are also affected now and the option has been renamed to Increased Rain Strength and is now located under the world tab instead of atmosphere.
 
 ## Fixes
 - Fixed Retro outlines with only night vision mode enabled force enabling world outline when not having the night vision effect
