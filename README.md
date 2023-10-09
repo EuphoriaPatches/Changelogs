@@ -65,6 +65,8 @@
 
 - Improved the Faster Rainy Clouds Option, now it has 2 options to choose from, the first one is the current released version, the transition is very fast between clear and rainy weather. And the second one has no transition but clouds and other affected animations will teleport quickly. This can't be fixed, unfortunately. Water and Foliage are also affected now and the option has been renamed to Increased Rain Strength and is now located under the world tab instead of Atmosphere.
 - Added a Spooky option which enables many spooky effects and changes the overall look of the shader.
+- Added a Cave Lighting Fade option which makes the caves darker with increased distance from the player. Improves the look of caves with a higher Cave Lighting setting.
+- Added a dragon egg emission toggle option
 
 ## Fixes
 - Fixed Retro outlines with only night vision mode enabled force enabling world outline when not having the night vision effect
