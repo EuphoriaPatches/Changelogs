@@ -67,6 +67,7 @@
 - Added a Spooky option which enables many spooky effects and changes the overall look of the shader.
 - Added a Cave Lighting Fade option which makes the caves darker with increased distance from the player. Improves the look of caves with a higher Cave Lighting setting.
 - Added a dragon egg emission toggle option
+- The nether brightness slider has more options now
 
 ## Fixes
 - Fixed Retro outlines with only night vision mode enabled force enabling world outline when not having the night vision effect
