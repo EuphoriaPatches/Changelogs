@@ -68,6 +68,7 @@
 - Added a Cave Lighting Fade option which makes the caves darker with increased distance from the player. Improves the look of caves with a higher Cave Lighting setting.
 - Added a dragon egg emission toggle option
 - The nether brightness slider has more options now
+- Added Vanilla Entity Shadows option (enables the vanilla entity shadow when realtime shadows are disabled)
 
 ## Fixes
 - Fixed Retro outlines with only night vision mode enabled force enabling world outline when not having the night vision effect
