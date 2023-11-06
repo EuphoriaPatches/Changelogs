@@ -70,6 +70,8 @@
 - The nether brightness slider has more options now
 - Added Vanilla Entity Shadows option (enables the vanilla entity shadow when realtime shadows are disabled)
 - The emissive nether wart now looks more organic
+- Added a new popular settings category
+- Added a Spaceagle17's setting profile
 
 ## Fixes
 - Fixed Retro outlines with only night vision mode enabled force enabling world outline when not having the night vision effect
