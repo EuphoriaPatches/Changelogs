@@ -83,6 +83,7 @@
   </p>
   </details>
 - Added a Froglight saturation setting, which makes the colors of the froglights more defined, this also then makes them affect the lightmap more with Multi-Colored Blocklight enabled.
+- Added an option which makes fire in the end purple, similar to the soul sand valley overhaul option
 
 ## Fixes
 - Fixed Retro outlines with only night vision mode enabled force enabling world outline when not having the night vision effect
