@@ -74,7 +74,7 @@
 - Added a SpacEagle17's setting profile
 - Improved The Integrated PBR Redstone Option (FINALLY!)
 - Flowing Lava noise now flows down, as it is expected to behave. With this addition, the flowing lava noise setting is now good enough in my (SpacEagle17) eyes to be enabled by default.
-- Added an extra option to the End Rod Profile menu, where the end rod slowly switches colors over time.
+- Added an extra option to the End Rod Profile menu, where the end rod slowly switches colors over time. Additionally an option exists where the end rod color change can be offset depending on world position.
   <details><summary><ins><strong>Click</strong></ins> to expand for a video of it in action </summary>
   <p>
     
