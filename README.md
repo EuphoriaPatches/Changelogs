@@ -6,7 +6,7 @@
 - Small tweaks to translucents with floor noise (renamed to Overlay Noise)
 - Remove sand in the lower parts of caves (transition starting at y=0)
 - Added an intensity slider for moss and sand on walls
-- Added support for the fire particle, the ghast and normal torch for Soul Sand Overhaul
+- Added support for the fire particle, the ghast, normal torch, jack 'o lantern and normal lantern for Soul Sand Overhaul
 - lava noise intensity code improvements and more setting options
 - Added a speed line camera effect
 - Added letterbox transparency
