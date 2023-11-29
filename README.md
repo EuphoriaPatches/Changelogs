@@ -84,7 +84,6 @@
   </details>
 - Added a Froglight saturation setting, which makes the colors of the froglights more defined, this also then makes them affect the lightmap more with Multi-Colored Blocklight enabled.
 - Added an option which makes fire in the end purple, similar to the soul sand valley overhaul option
-- [gri](https://github.com/gri573) added an option to enable flood fill colored blacklight (only works on iris)! This colored blocklight option also works off-screen meaning that light sources hiding behind blocks still create colored lighting. Even emissive blocks can create light. Additionally, hardcoded colors for each blocks have been added as well
 
 ## Fixes
 - Fixed Retro outlines with only night vision mode enabled force enabling world outline when not having the night vision effect
