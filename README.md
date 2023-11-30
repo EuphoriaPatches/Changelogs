@@ -74,7 +74,7 @@
 - Added a SpacEagle17's setting profile
 - Improved The Integrated PBR Redstone Option (FINALLY!)
 - Flowing Lava noise now flows down, as it is expected to behave. With this addition, the flowing lava noise setting is now good enough in my (SpacEagle17) eyes to be enabled by default.
-- Added an extra option to the End Rod Profile menu, where the end rod slowly switches colors over time. Additionally, an option exists where the end rod color change can be offset depending on the world position.
+- Added an extra option to the End Rod Profile menu, where the end rod slowly switches colors over time. An option exists where the end rod color change can be offset depending on the world position.
   <details><summary><ins><strong>Click</strong></ins> to expand for a video of it in action </summary>
   <p>
     
@@ -83,7 +83,7 @@
   </p>
   </details>
 - Added a Froglight saturation setting, which makes the colors of the froglights more defined, this also then makes them affect the lightmap more with Multi-Colored Blocklight enabled.
-- Added an option which makes fire in the end purple, similar to the soul sand valley overhaul option
+- Added an option which makes fire in the end purple, similar to the Soul Sand Valley overhaul option
 
 ## Fixes
 - Fixed Retro outlines with only night vision mode enabled force enabling world outline when not having the night vision effect
