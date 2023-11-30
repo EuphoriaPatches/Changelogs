@@ -68,13 +68,13 @@
 - Added a Cave Lighting Fade option which makes the caves darker with increased distance from the player. Improves the look of caves with a higher Cave Lighting setting.
 - Added a dragon egg emission toggle option
 - The nether brightness slider has more options now
-- Added Vanilla Entity Shadows option (enables the vanilla entity shadow when realtime shadows are disabled)
+- Added Vanilla Entity Shadows option (enables the vanilla entity shadow when real-time shadows are disabled)
 - The emissive nether wart now looks more organic
 - Added a new popular settings category
 - Added a SpacEagle17's setting profile
 - Improved The Integrated PBR Redstone Option (FINALLY!)
 - Flowing Lava noise now flows down, as it is expected to behave. With this addition, the flowing lava noise setting is now good enough in my (SpacEagle17) eyes to be enabled by default.
-- Added an extra option to the End Rod Profile menu, where the end rod slowly switches colors over time. Additionally an option exists where the end rod color change can be offset depending on world position.
+- Added an extra option to the End Rod Profile menu, where the end rod slowly switches colors over time. Additionally, an option exists where the end rod color change can be offset depending on the world position.
   <details><summary><ins><strong>Click</strong></ins> to expand for a video of it in action </summary>
   <p>
     
@@ -88,6 +88,7 @@
 ## Fixes
 - Fixed Retro outlines with only night vision mode enabled force enabling world outline when not having the night vision effect
 - Made lava noise work with labpbr and co, only worked with ipbr before
+- Fixed winter mode having NaN issues on seagrass and similar, they looked black (hopefully fixed, if that is not the case please report back)
 
 ## Obsolete Options
 - Removed blocklight flickering as it is now in the base pack
