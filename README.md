@@ -6,6 +6,7 @@
 - Tweaked Purple fire gradient
 - Added Renko's Cut of Euphoria Patches by [@gri573](https://github.com/gri573)
 - Seasons now start in spring and they are by default now 28 minecraft days long to match the beahavior of the [fabric seasons mod](https://modrinth.com/mod/fabric-seasons)
+- Added a starting season option where you can change from which season the cycle starts
 - Added Support for many Euphoria Patches features with [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - Added a glitter rain option
 
