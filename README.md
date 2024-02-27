@@ -2,7 +2,7 @@
 
 ## Changes
 - Updated to Complementary r5.2
-- Removed lava column noise option as it is enabled by default and just looks too good :p
+- Removed lava column noise option as it is enabled by default and it just looks too good so there is no need to disable it :p
 - Tweaked Purple fire gradient
 - Added Renko's Cut of Euphoria Patches by [@gri573](https://github.com/gri573)
 - Seasons now start in spring and they are by default now 28 minecraft days long to match the beahavior of the [fabric seasons mod](https://modrinth.com/mod/fabric-seasons)
