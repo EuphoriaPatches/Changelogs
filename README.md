@@ -1,7 +1,7 @@
 # Latest changes for the next public release
 
 ## Changes
-- Updated to COmplementary r5.2
+- Updated to Complementary r5.2
 - Removed lava column noise option as it is enabled by default and just looks too good :p
 - Tweaked Purple fire gradient
 - Added Renko's Cut of Euphoria Patches by [@gri573](https://github.com/gri573)
