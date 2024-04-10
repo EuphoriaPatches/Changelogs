@@ -9,8 +9,15 @@
 - Added a starting season option where you can change from which season the cycle starts
 - Added Support for many Euphoria Patches features with [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - Added a glitter rain option
+- All light level 15 modded light sources (and other light levels with iris 1.7) will automatically work with SSBL now
+- Lava lakes in caves under y -55 in the overworld will now also look like the nether lava lakes with the adaptive lava noise preset
+- Added glowing raw blocks option
+- Added a new end portal effect
+- Added a long exposure mode
+- Added a tilt shift option (this is awesome!)
 
 ## Fixes
 - SSS artifacts (a lot of parallel lines) are fixed on snow and ice with the Snow Ice SSS option enabled
 - Fixed Purple fire appearing in the nether with labpbr mode on
 - Removed some log errors
+- Ghast no longer glows blue when damaged when in the soul sand valley and the overhaul option is enabled
