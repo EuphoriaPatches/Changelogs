@@ -15,6 +15,7 @@
 - Added a new end portal effect
 - Added a long exposure mode
 - Added a tilt shift option (this is awesome!)
+- Inteactive foliage has a smoother fallof
 
 ## Fixes
 - SSS artifacts (a lot of parallel lines) are fixed on snow and ice with the Snow Ice SSS option enabled
