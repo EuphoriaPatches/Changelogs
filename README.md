@@ -55,6 +55,7 @@
 - Added Polish translation thanks to @Acer (Alex)
 - Added higher values for lava emission, at your own risk
 - Added a higher quality clouds option
+- And MANY minor changes and probably a lot I forgot
 
 ## Fixes
 - SSS artefacts (a lot of parallel lines) are fixed on snow and ice with the Snow Ice SSS option enabled
