@@ -1,6 +1,8 @@
-# Latest changes
+# Latest Public Changes
 ## Euphoria Patches 1.3
 This version is the biggest update so far, adding so many things it's impossible to sum it up in a message
+
+Euphoria Patches dev versions are available on **[Ko-Fi](https://ko-fi.com/spaceagle17)** or **[Patreon](https://www.patreon.com/SpacEagle17)**
 ## Changes
 - Updated to Complementary r5.2
 - Removed the lava column noise option as it is enabled by default and it just looks too good so there is no need to disable it :p
