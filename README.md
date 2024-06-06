@@ -4,7 +4,7 @@ This version is the biggest update so far, adding so many things it's impossible
 
 Euphoria Patches dev versions are available on **[Ko-Fi](https://ko-fi.com/spaceagle17)** or **[Patreon](https://www.patreon.com/SpacEagle17)**
 ## Changes
-- Updated to Complementary r5.2
+- Updated to Complementary r5.2.1
 - Removed the lava column noise option as it is enabled by default and it just looks too good so there is no need to disable it :p
 - Tweaked Purple fire gradient
 - Added Renko's Cut of Euphoria Patches by [@gri573](https://github.com/gri573)
