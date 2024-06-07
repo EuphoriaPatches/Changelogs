@@ -1,9 +1,15 @@
 # Latest Public Changes
+## Euphoria Patches 1.3.1
+Small Fixes
+Euphoria Patches dev versions are available on **[Ko-Fi](https://ko-fi.com/spaceagle17)** or **[Patreon](https://www.patreon.com/SpacEagle17)**
+### Changes
+- Fixed Ocean Physics From Physics mod not working
+- Fixed 2 compile errors with distant horizons
+- Added more modded blocks
 ## Euphoria Patches 1.3
 This version is the biggest update so far, adding so many things it's impossible to sum it up in a message
 
-Euphoria Patches dev versions are available on **[Ko-Fi](https://ko-fi.com/spaceagle17)** or **[Patreon](https://www.patreon.com/SpacEagle17)**
-## Changes
+### Changes
 - Updated to Complementary r5.2.1
 - Removed the lava column noise option as it is enabled by default and it just looks too good so there is no need to disable it :p
 - Tweaked Purple fire gradient
@@ -60,7 +66,7 @@ Euphoria Patches dev versions are available on **[Ko-Fi](https://ko-fi.com/space
 - Added a higher quality clouds option
 - And MANY minor changes and probably a lot I forgot
 
-## Fixes
+### Fixes
 - SSS artefacts (a lot of parallel lines) are fixed on snow and ice with the Snow Ice SSS option enabled
 - Fixed Purple fire appearing in the nether with labpbr mode on
 - Removed some log errors
