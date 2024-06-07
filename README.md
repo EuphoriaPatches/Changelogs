@@ -1,7 +1,7 @@
 # Latest Public Changes
+Euphoria Patches dev versions are available on **[Ko-Fi](https://ko-fi.com/spaceagle17)** or **[Patreon](https://www.patreon.com/SpacEagle17)**
 ## Euphoria Patches 1.3.1
 Small Fixes
-Euphoria Patches dev versions are available on **[Ko-Fi](https://ko-fi.com/spaceagle17)** or **[Patreon](https://www.patreon.com/SpacEagle17)**
 ### Changes
 - Fixed Ocean Physics From Physics mod not working
 - Fixed 2 compile errors with distant horizons
