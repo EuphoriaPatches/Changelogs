@@ -1,5 +1,27 @@
 # Latest Public Changes
 Euphoria Patches dev versions are available on **[Ko-Fi](https://ko-fi.com/spaceagle17)** or **[Patreon](https://www.patreon.com/SpacEagle17)**
+## Euphoria Patches 1.3.3
+### Changes
+- Added a lot of block.properties entries thanks to the community
+- Improved Aurora Influence
+- Added pink and purple ore entries in block.properties so modded blocks fit better in those new categories
+- Added a warning message for all Apple users when they enable ACL instead of crashing the shader
+- Added an Autumn Strength option
+- Added an alternative Amethyst Block Style
+- Locked the dragon death effect and the end crystal vortex option behind ACL for better compat in the future
+- Increased the star brightness slider threshold, it now goes up to 3.0
+- Improved the look of grass with a changed lightmap curve
+- Made spring flowers have an unlimited range again and not be limited around the player only
+- Changed the default behaviour of rainbow end rods, and thus also making it now work with ACL
+- Renamed the profiles to avoid confusion
+### Fixes
+- Fixed the AgX tonemap being too quickly black, creating artefacts. And added an AgX saturation option
+- Fixed particles glowing INSANELY bright with a tweaked lightmap curve
+- Fixed the end portal colors being slightly off
+- Fixed the tag implementation breaking on older iris/oculus versions and making the shader not compile (iris 1.4.2 or so)
+- Fixed a compile error which broke the shader if colored light fog was turned off and the end portal rays turned on
+- Fixed all false positives with the dragon death effect on iris 1.7.2+ (the effect no longer works on iris 1.7.1 so make sure to update)
+- Minor fixes and tweaks
 ## Euphoria Patches 1.3.2
 ### Changes
 - Added a daylight stars option where stars shine during the day
