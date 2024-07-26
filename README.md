@@ -1,5 +1,5 @@
 # Latest Public Changes
-Euphoria Patches dev versions are available on **[Ko-Fi](https://ko-fi.com/spaceagle17)** or **[Patreon](https://www.patreon.com/SpacEagle17)**
+Euphoria Patches dev versions are available on **[Patreon](https://www.patreon.com/SpacEagle17)** or **[Ko-Fi](https://ko-fi.com/spaceagle17)**
 ## Euphoria Patches 1.3.3
 ### Changes
 - Added a lot of block.properties entries thanks to the community
