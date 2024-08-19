@@ -2,6 +2,7 @@
 Euphoria Patches dev versions are available on **[Patreon](https://www.patreon.com/SpacEagle17)** or **[Ko-Fi](https://ko-fi.com/spaceagle17)**
 ## Euphoria Patches 1.3.2
 ### Changes
+- Updated to Complementary_r5.2.2
 - Added a daylight stars option where stars shine during the day
 - Added a sun glare intensity slider
 - Added an option which decreases the lighting the deeper you submerge in the ocean
