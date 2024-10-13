@@ -1,1 +1,1 @@
-# Changelogs are now available on https://www.euphoriapatches.com/changelogs
+# Changelogs are now available at https://www.euphoriapatches.com/changelogs
